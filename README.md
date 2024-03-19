@@ -12,7 +12,7 @@ This tool allows users to search for keywords in a CSV file and retrieve relevan
     pip install pandas nltk
     ```
 
-3. **Input**: Run the script `keyword_search.py`. You will be prompted to enter your search query.
+3. **Input**: Run the script `main.py`. You will be prompted to enter your search query.
 
 4. **Output**: The tool will search for the keywords in the specified CSV file and display the corresponding information found in the columns specified.
 
